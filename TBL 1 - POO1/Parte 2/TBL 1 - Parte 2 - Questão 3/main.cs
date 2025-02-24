@@ -2,26 +2,18 @@
 
                             Online C# Compiler.
                         Kewerton Caetano - RA 123210
-                         TBL 1 - Parte 2 - Questão 2
+                         TBL 1 - Parte 2 - Questão 3
                                                                                 
 *******************************************************************************/
 
 using System;
 
-public class Pessoa {
-    public string Nome;
-}
-
-class Questao2 {
+class Questao3 {
   static void Main() {
-    Pessoa p1 = new Pessoa();
-    p1.Nome = "Kewerton";
+    double x = 9.999;
+    int y = (int)x;
     
-    Pessoa p2 = p1;
-    
-    p2.Nome = "Caetano";
-    
-    Console.WriteLine($"Nome do primeiro objeto: {p1.Nome}");
-    
+    Console.WriteLine($"Valor antes da conversão: {x}");
+    Console.WriteLine($"Valor depois da conversão: {y}");
   }
 }

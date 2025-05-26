@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\bin\Debug\net8.0\roteiro7_exercicio3.exe
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\bin\Debug\net8.0\roteiro7_exercicio3.deps.json
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\bin\Debug\net8.0\roteiro7_exercicio3.runtimeconfig.json
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\bin\Debug\net8.0\roteiro7_exercicio3.dll
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\bin\Debug\net8.0\roteiro7_exercicio3.pdb
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\roteiro7_exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\roteiro7_exercicio3.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\roteiro7_exercicio3.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\roteiro7_exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\roteiro7_exercicio3.dll
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\refint\roteiro7_exercicio3.dll
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\roteiro7_exercicio3.pdb
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\roteiro7_exercicio3.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\ROTEIRO 07\ROTEIRO 07 - Exercicio 3\roteiro7_exercicio3\obj\Debug\net8.0\ref\roteiro7_exercicio3.dll

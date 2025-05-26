@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Zh4q32yGX8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\ROTEIRO 08\\roteiro8_exercicios\\roteiro8_exercicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
